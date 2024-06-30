@@ -31,52 +31,51 @@
 <div align="center">
       <h3>Front-End()</h3>
       <div>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/html.svg" width="40" height="40" title="HTML"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/css.svg" width="40" height="40" title="CSS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/javascript.svg" width="40" height="40" title="JavaScript"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/typescript.svg" width="40" height="40" title="TypeScript"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/reactjs.svg" width="40" height="40" title="ReactJS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/nextjs.svg" width="40" height="40" title="NextJS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/tailwind.svg" width="40" height="40" title="TailwindCSS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/redux.svg" width="40" height="40" title="Redux"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/zustand.webp" width="40" height="40" title="Zustand"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/html.svg" width="40" height="40" title="HTML"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/css.svg" width="40" height="40" title="CSS"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/javascript.svg" width="40" height="40" title="JavaScript"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/typescript.svg" width="40" height="40" title="TypeScript"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/reactjs.svg" width="40" height="40" title="ReactJS"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/nextjs.svg" width="40" height="40" title="NextJS"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/tailwind.svg" width="40" height="40" title="TailwindCSS"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/redux.svg" width="40" height="40" title="Redux"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/zustand.webp" width="40" height="40" title="Zustand"/>
       </div>
   </div>
   
   <div align="center">
       <h3>Back-End()</h3>
       <div>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/nodejs.svg" width="40" height="40" title="NodeJS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/express.svg" width="40" height="40" title="Express"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/mongodb.svg" width="40" height="40" title="MongoDB"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/mysql.svg" width="40" height="40" title="MySQL"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/php.svg" width="40" height="40" title="PHP"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/nextauth.svg" width="40" height="40" title="NextAuth"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/nodejs.svg" width="40" height="40" title="NodeJS"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/express.svg" width="40" height="40" title="Express"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/mongodb.svg" width="40" height="40" title="MongoDB"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/mysql.svg" width="40" height="40" title="MySQL"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/php.svg" width="40" height="40" title="PHP"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/nextauth.svg" width="40" height="40" title="NextAuth"/>
       </div>
   </div>
   
   <div align="center">
       <h3>Programming()</h3>
       <div>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/javascript.svg" width="40" height="40" title="JavaScript"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/python.svg" width="40" height="40" title="Python"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/cpp.svg" width="40" height="40" title="C++"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/java.svg" width="40" height="40" title="Java"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/javascript.svg" width="40" height="40" title="JavaScript"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/python.svg" width="40" height="40" title="Python"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/cpp.svg" width="40" height="40" title="C++"/>
       </div>
   </div>
   
   <div align="center">
       <h3>Tech & Tools()</h3>
       <div>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/vitejs.svg" width="40" height="40" title="ViteJS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/socketio.svg" width="40" height="40" title="SocketIO"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/npm.svg" width="40" height="40" title="NPM"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/git.svg" width="40" height="40" title="Git"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/github.svg" width="40" height="40" title="GitHub"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/netlify.svg" width="40" height="40" title="Netlify"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/vercel.svg" width="40" height="40" title="Vercel"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/vscode.svg" width="40" height="40" title="VScode"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icons/figma.svg" width="40" height="40" title="Figma"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/vitejs.svg" width="40" height="40" title="ViteJS"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/socketio.svg" width="40" height="40" title="SocketIO"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/npm.svg" width="40" height="40" title="NPM"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/git.svg" width="40" height="40" title="Git"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/github.svg" width="40" height="40" title="GitHub"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/netlify.svg" width="40" height="40" title="Netlify"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/vercel.svg" width="40" height="40" title="Vercel"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/vscode.svg" width="40" height="40" title="VScode"/>
+          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/figma.svg" width="40" height="40" title="Figma"/>
       </div>
 </div>
 
