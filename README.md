@@ -23,7 +23,7 @@
   
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=Gagandeep-2003&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gagandeep-2003)
 </div>
 
 ## Languages & Tools
