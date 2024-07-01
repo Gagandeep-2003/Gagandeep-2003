@@ -10,9 +10,13 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/Gagandeep-2003) -->
 ![](https://komarev.com/ghpvc/?username=Gagandeep-2003&label=PROFILE+VIEWS&style=for-the-badge)
  <a href="https://www.linkedin.com/in/gagandeepsingh22/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
-<a href="https://twitter.com/GagandeepDevs" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter"></a>
+<a href="https://twitter.com/GagandeepDevs" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=fff" alt="Twitter">
+</a>
 
-<a href="https://gagandeep-portfolio-website.vercel.app/" target="_blank">[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=squarespace&logoColor=fff)](#)</a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=squarespace&logoColor=fff)](https://gagandeep-portfolio-website.vercel.app)
+
 </div>
 
 ## Statistics
