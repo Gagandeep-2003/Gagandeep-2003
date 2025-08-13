@@ -69,21 +69,47 @@
       </div>
   </div>
   
-  <div align="center">
-      <h3>Tech & Tools()</h3>
-      <div>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/vitejs.svg" width="40" height="40" title="ViteJS"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/socketio.svg" width="40" height="40" title="SocketIO"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/npm.svg" width="40" height="40" title="NPM"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/git.svg" width="40" height="40" title="Git"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/github.svg" width="40" height="40" title="GitHub"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/netlify.svg" width="40" height="40" title="Netlify"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/vercel.svg" width="40" height="40" title="Vercel"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/vscode.svg" width="40" height="40" title="VScode"/>
-          <img  src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003.github.io/main/icon/figma.svg" width="40" height="40" title="Figma"/>
-      </div>
-</div>
+---
 
+## 🧰 Tech Stack (DS/ML/NLP)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+
+**ML / DL**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-458C4B?style=for-the-badge)
+
+**NLP**  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=fff&style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff&style=for-the-badge)
+
+**Data & Big Data**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=for-the-badge)
+
+**Web / Deployment**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)
+
+---
 ## Contribution Snake :
 
 <picture>
