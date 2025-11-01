@@ -111,9 +111,17 @@
 
 ---
 ## Contribution Snake :
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gagandeep-2003/Gagandeep-2003/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+## ⚔️ Philosophy  
+
+> *“Code like there’s no tomorrow. Debug like you built the Matrix.”*  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E62429&height=100&section=footer" />
+</p>
