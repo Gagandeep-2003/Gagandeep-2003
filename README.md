@@ -1,4 +1,4 @@
-```markdown
+
 <a href="https://gagandeep-portfolio-website.vercel.app/" target="_blank" title="Gagandeep Singh's Portfolio">
   <img
     src="./Github_banner_2.webp"
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=5A1677&center=true&vCenter=true&multiline=true&random=false&width=1000&height=130&lines=Hello%2C+I%27m+Gagandeep+Singh;Machine+Learning+%26+NLP+Enthusiast;Building+Intelligent+Data-Driven+Solutions"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=1000&color=5A1677&center=true&vCenter=true&multiline=true&random=false&width=1000&height=150&lines=Hello%2C+I%27m+Gagandeep+Singh;Data+Science+%26+Machine+Learning+Enthusiast;Building+Intelligent+Data-Driven+Solutions"
       alt="Typing introduction"
     />
   </a>
@@ -254,5 +254,4 @@ I am always interested in connecting with people working in:
     src="https://capsule-render.vercel.app/api?type=waving&color=5A1677&height=100&section=footer"
     alt="GitHub profile footer"
   />
-</p>
-```
+</p>  
