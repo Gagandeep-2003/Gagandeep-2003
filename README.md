@@ -1,7 +1,7 @@
 
 <a href="https://gagandeep-portfolio-website.vercel.app/" target="_blank" title="Gagandeep Singh's Portfolio">
   <img
-    src="./Github_banner_2.webp"
+    src="./Github_Banner.webp"
     width="100%"
     height="auto"
     alt="Gagandeep Singh GitHub Banner"
